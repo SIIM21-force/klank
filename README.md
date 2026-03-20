@@ -45,7 +45,7 @@ We welcome pull requests! If you want to add new features, fix bugs, or improve 
 First, fork this repository to your own GitHub account. Then, clone it locally:
 ```bash
 git clone https://github.com/<your-username>/zuiver.git
-cd klank
+cd zuiver
 ```
 
 ### 2. Install Dependencies
