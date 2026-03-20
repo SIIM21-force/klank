@@ -2,7 +2,7 @@
   <img src="public/icon.png" alt="Klank App Icon" width="100" height="100" />
   <br />
   <img src="public/logo.png" alt="Klank Logo Full" width="350" />
-  <h1>Klank</h1>
+  <h1>ZUIVER</h1>
   <p>An offline, visually immersive music player built with Electron, React, and TypeScript.</p>
 </div>
 
@@ -44,7 +44,7 @@ We welcome pull requests! If you want to add new features, fix bugs, or improve 
 ### 1. Fork & Clone
 First, fork this repository to your own GitHub account. Then, clone it locally:
 ```bash
-git clone https://github.com/your-username/klank.git
+git clone https://github.com/<your-username>/zuiver.git
 cd klank
 ```
 
@@ -78,7 +78,7 @@ To compile an executable `.exe` installer for Windows to test your changes in a 
 npm run build
 ```
 
-The resulting installer (`Klank Setup 1.0.0.exe`) will be located in the `release/` directory.
+The resulting installer (`Zuiver Setup 1.0.0.exe`) will be located in the `release/` directory.
 
 ## 📄 License
 
